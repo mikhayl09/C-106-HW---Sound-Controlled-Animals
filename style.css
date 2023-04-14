@@ -1,3 +1,32 @@
 body{
 background-color: teal;
 }
+.header_div{
+    background-color: rgb(159, 134, 169);
+    color:darkolivegreen;
+}
+.header_div p{
+    font-family: 'Roboto Mono', monospace;
+    color:black;
+    letter-spacing: 2 px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Alkatra', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer {
+    position: fixed;
+    color:darkblue;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(159, 134, 169);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(134, 234, 150);
+}
